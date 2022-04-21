@@ -1,3 +1,3 @@
-# Programa para verificar si dos numeros son diferentes #
+# PROGRAMA PARA VERIFICAR SI DOS NÚMEROS SON DIFERENTES #
 
-("Diagrama de flujo)
+!["DIAGRAMADEFLUJO"](diagrama.png)
